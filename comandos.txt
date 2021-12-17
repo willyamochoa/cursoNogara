@@ -29,3 +29,4 @@ kill id (con un solo id)
 killall "nombreproceso" (con varios ids o subproceso)
 kill -Stop id (detenemos un proceso)
 kill -Cont id (procedemos con el proceso)
+ow
