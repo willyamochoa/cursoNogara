@@ -1,4 +1,4 @@
-rutas relativas y absolutas
+asasrutas relativas y absolutas
 ls	- 	listar directorios y archivos
 pwd	-	muestra ruta de carpeta en la que estamos
 cd	-	cambia de directorio
