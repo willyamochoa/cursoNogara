@@ -30,3 +30,18 @@ killall "nombreproceso" (con varios ids o subproceso)
 kill -Stop id (detenemos un proceso)
 kill -Cont id (procedemos con el proceso)
 ow
+
+
+git init (ejecutar git en nuestra carpeta)
+
+git config --global (configuracion global)
+
+git remote add origin (conectar remotamente a la rama y se le da por variable origin)
+
+git branch -M main (cambiar nombre a la rama principal)
+
+git add .    agregar todo lo modificado
+
+git commit -m "primer commit" guardar en local
+
+git push origin main guardar en servidor github
