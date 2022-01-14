@@ -1,0 +1,73 @@
+git init (ejecutar git en nuestra carpeta)
+
+git config --global (configuracion global)
+
+git remote add origin (conectar remotamente a la rama y se le da por variable origin)
+
+git branch -M main (cambiar nombre a la rama principal)
+
+git commit -m "primer commit" guardar en local
+
+git push origin main guardar en servidor github
+
+
+git checkout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48559628
+08/12/94
+HBAVMT
