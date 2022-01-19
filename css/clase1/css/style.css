@@ -1,3 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+
+
+
+/* header */
+
 h1{background-color: blueviolet;
 
 
@@ -5,5 +12,36 @@ h1{background-color: blueviolet;
 
 h1{background-color:blue
 
-
 }
+
+
+h1{
+    background-color: blueviolet; 
+    color: rgb(195, 224, 32);
+    font-family: Neonderthaw, cursive;
+}
+
+/* main */
+p{
+    background-color: chartreuse;
+    color: crimson;
+}
+
+#azul, 
+#azulx2{
+    background-color: darkblue;
+    color: white;
+}
+
+
+.rojo{
+    background-color: tomato;
+    color: turquoise;
+}
+
+body {
+   
+    background-image: url("https://static.dw.com/image/52140978_303.jpg");
+    background-size: 50rem;
+    
+  }
