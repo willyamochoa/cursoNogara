@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: white;
+}
+
+div {
+
+    height: 50px;
+}
+
+#color1{
+
+    background-color: red;
+}
+#color2{
+
+    background-color: blue
+}
+#color3{
+
+    background-color: pink;
+}
+#color4{
+
+    background-color: orange;
+}
+#color5{
+
+    background-color: yellow;
+}
+
+#rgb1 {
+    background-color: rgb(255, 0, 0);
+}
+#rgb2 {
+    background-color: rgb(0, 0, 255);
+}
+#rgb3 {
+    background-color: rgb(140,140,255);
+}
+#rgb4 {
+    background-color: rgb(100,100,100);
+}
+#rgb5 {
+    background-color: rgb(0,0,255);
+}
