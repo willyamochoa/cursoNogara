@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+
+}
+main{
+    align-items: center;
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+   /* flex-wrap:nowrap; */
+    justify-content: center;
+    height: 100vh;
+    padding: 2rem;
+    flex-direction: row;
+}
+
+div{
+    background-color: aqua;
+    font-size: 1.2rem;
+    border: 5px dotted blueviolet;
+    width: 33%;
+}
+img{
+    width: 100%;
+}
+p{
+    background-color: brown;
+}
